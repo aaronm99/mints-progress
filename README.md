@@ -4,9 +4,3 @@
 
 - [ ]  Form to add Upcoming NFT
 - [ ]  Sort NFTs by date
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
